@@ -15,4 +15,4 @@ Their api provides district level number of cases
 The api also provides data on tests, facitlities, no. of hospitals ...
 More information about them can be found here : https://www.covid19india.org/about
 https://api.covid19india.org/ has the list of all the apis that they have made availabe
-Here is the github repo of the project : https://github.com/covid19india/covid19india-react
+
