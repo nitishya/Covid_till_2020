@@ -16,3 +16,5 @@ This repository contains data and code for scrapping and cleaning data on covid-
 * More information about them can be found here : https://www.covid19india.org/about
 * https://api.covid19india.org/ has the list of all the apis that they have made availabe
 
+# Detailed analysis available at-
+https://github.com/nitishya/Covid_till_2020/blob/main/Covid_Analysis.ipynb
