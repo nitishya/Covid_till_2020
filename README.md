@@ -1,7 +1,7 @@
 # Covid_till_2020
 On the bases of data set available, we have to analyze and check various information like confirm cases, total deaths, recovered persons, can display the data by plotting in terms of graphs, state wise percentage of confirmed cases etc.
 
-
+Oracle login available at - http://bugmenot.com/view/oracle.com
 
 # Data Set 
 This repository contains data and code for scrapping and cleaning data on covid-19 in India from https://www.mohfw.gov.in/ website and API provided by https://www.covid19india.org/
